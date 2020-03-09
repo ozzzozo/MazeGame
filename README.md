@@ -6,9 +6,9 @@ Note: The first level is formatted in a different way than the others.
 
 Controls:
 
-W/Up arrow: up
-S/Down arrow: down
-D/Right arrow: right
-A/Left arrow: left
+W/Up arrow: up<br />
+S/Down arrow: down<br />
+D/Right arrow: right<br />
+A/Left arrow: left<br />
 
 This is 100% coded by me.
