@@ -1,4 +1,4 @@
-# Java-Maze-Game
+# Java Maze Game
 
 Just a simple 2D maze game in Java.
 <br />
