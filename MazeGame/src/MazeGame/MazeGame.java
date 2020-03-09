@@ -1,6 +1,6 @@
 package MazeGame;
 
-public class MazeBank {
+public class MazeGame {
 
     public static void main(String[] args) {
         //MainMenu main = new MainMenu();
