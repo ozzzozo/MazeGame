@@ -3,7 +3,7 @@
 Just a simple 2D maze game in Java.
 <br />
 
-![alt text](https://github.com/goldshay135/Images/blob/master/MazeGame.png?raw=true) <br />
+![alt text](https://github.com/ozzzozo/Images/blob/master/MazeGame.png?raw=true) <br />
 
 Note: The first level is formatted in a different way than the others.
 
