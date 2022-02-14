@@ -13,5 +13,3 @@ W/Up arrow: up<br />
 S/Down arrow: down<br />
 D/Right arrow: right<br />
 A/Left arrow: left<br />
-
-This is 100% coded by me.
